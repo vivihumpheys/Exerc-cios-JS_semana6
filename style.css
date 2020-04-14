@@ -1,0 +1,14 @@
+.btn {
+    color: purple;
+    border-radius: 30px;
+    background-color: white;
+    font-size: 30px;
+}
+
+.btn-2{
+    color: pink;
+    border-radius: 30px;
+    background-color: black;
+    font-size: 30px;
+
+}
